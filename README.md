@@ -1,4 +1,4 @@
-# R-Cookbook-Bioinformatics
+# R-Bioinformatics
 R Cook Book for Bioinformatics
 Creating a cookbook for bioinformatics, especially in R, can be a rewarding project. Here's a basic outline of what such a cookbook might include:
 
