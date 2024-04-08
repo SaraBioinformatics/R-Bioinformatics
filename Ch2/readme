@@ -1,1 +1,22 @@
 
+(Ch2 = chapter 2)
+
+Finding Gnenetic variants with HTS(high throughput sequencing) Data
+In this chapter , we will cover the following steps
+
+Finding SNPs and indels in sequence data using variant tools
+Predicting open reading frames in long reference sequences
+Plotting features on genetics mapa with karyoploteR
+Finding alternative transcript isoform
+Selecting and classifying varriants with VrriantAnnotation
+Extracting information in genomic regions of interest
+Finding phenotype and genotype associations with GWAS 
+Estimating the copy number at a locus at a locus of interest....
+
+GenomeInfoDb- Utilities for manipulating chromosome names, including modifying them to follow a particular naming style
+rtracklayerR - interface to genome annotation files and the UCSC genome browser
+Biostrings- Efficient manipulation of biological strings
+GenomicRanges- Representation and manipulation of genomic intervals
+gmapR - An R interface to the GMAP/GSNAP/GSTRUCT suite
+karyoploteR- is an R package to create karyoplots, that is, representations of whole genomes with arbitrary data plotted on them. It is inspired by the R base graphics system and does not depend on other graphics packages. 
+The aim of karyoploteR is to offer the user an easy way to plot data along the genome to get broad genome-wide view to facilitate the identification of genome wide relations and distributions.
