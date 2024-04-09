@@ -1,0 +1,17 @@
+> genotypes
+          marker chrom     pos NA00001 NA00002 NA00003
+1      rs6054257    20   14370       1       0      -1
+2   20:17330_T/A    20   17330       1       0       1
+3 20:1230237_T/G    20 1230237       1       1       0
+> phenotypes
+     line      score
+1 NA00001 -1.2070657
+2 NA00002  0.2774292
+3 NA00003  1.0844412
+GWAS(phenotypes, genotypes,plot=FALSE)
+[1] "GWAS for trait: score"
+[1] "Variance components estimated. Testing markers."
+          marker chrom     pos     score
+1      rs6054257    20   14370 0.3010543
+2   20:17330_T/A    20   17330 0.3010057
+3 20:1230237_T/G    20 1230237 0.1655498
