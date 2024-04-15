@@ -1,1 +1,8 @@
 
+############# phylogenetic analysis and visualization
+1) Readind and writing varied tree formats with ape and treeio
+2) Visualization trees of many genes quickly with ggtree
+3) Quantifying distances between trees with treespace
+4) Extracting and working with subtrees using ape
+5) Creating dot plots for algnment visusalization 
+6) Reconstructing trees from alignments usisng platform
