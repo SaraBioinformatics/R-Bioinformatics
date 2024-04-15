@@ -1,1 +1,8 @@
 
+########### METAGENOMICS #################
+1) Loading in hierarchical taxanomic data using phyloseq
+2) Rarefying counts to correct for sample difference using metacoder
+3) Reading amplicon data from raw reads with data2
+4) Visualizing taxonomic abundances with heat trees in metacoder
+5) Computing sample diversity with vegan
+6) spliting sequence files into operationals taxonomic units
