@@ -1,0 +1,9 @@
+columns(org.At.tair.db)
+ [1] "ARACYC"       "ARACYCENZYME" "ENTREZID"     "ENZYME"       "EVIDENCE"    
+ [6] "EVIDENCEALL"  "GENENAME"     "GO"           "GOALL"        "ONTOLOGY"    
+[11] "ONTOLOGY
+
+> columns(org.EcK12.eg.db)
+ [1] "ACCNUM"      "ALIAS"       "ENTREZID"    "ENZYME"      "EVIDENCE"   
+ [6] "EVIDENCEALL" "GENENAME"    "GO"          "GOALL"       "ONTOLOGY"   
+[11] "ONTOLOGYALL" "PATH"        "PMID"        "REFSEQ"      "SYMBOL"

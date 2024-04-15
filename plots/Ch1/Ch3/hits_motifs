@@ -1,0 +1,42 @@
+motif_hits
+DataFrame with 197 rows and 15 columns
+              motif   motif.i    sequence sequence.i     start      stop     score
+        <character> <integer> <character>  <integer> <integer> <integer> <numeric>
+1   YTTTYTTTTTYTTTY         1   AT1G05670         47        62        76     9.402
+2   YTTTYTTTTTYTTTY         1   AT1G05670         47        65        79    10.290
+3   YTTTYTTTTTYTTTY         1   AT1G05670         47        66        80    12.478
+4   YTTTYTTTTTYTTTY         1   AT1G05670         47        67        81    10.576
+5   YTTTYTTTTTYTTTY         1   AT1G05670         47        68        82    18.833
+...             ...       ...         ...        ...       ...       ...       ...
+193 YTTTYTTTTTYTTTY         1   AT5G64310         22        19        33    11.585
+194 YTTTYTTTTTYTTTY         1   AT5G64310         22        21        35    10.955
+195 YTTTYTTTTTYTTTY         1   AT5G64310         22       382       396     9.858
+196 YTTTYTTTTTYTTTY         1   AT5G64310         22       393       407    15.174
+197 YTTTYTTTTTYTTTY         1   AT5G64310         22       836       850    10.634
+              match thresh.score min.score max.score score.pct      strand
+        <character>    <numeric> <numeric> <numeric> <numeric> <character>
+1   TCTTGTGTTTCTTTT        9.015   -91.208    22.423   41.9302           +
+2   TGTGTTTCTTTTTTC        9.015   -91.208    22.423   45.8904           +
+3   GTGTTTCTTTTTTCT        9.015   -91.208    22.423   55.6482           +
+4   TGTTTCTTTTTTCTT        9.015   -91.208    22.423   47.1659           +
+5   GTTTCTTTTTTCTTT        9.015   -91.208    22.423   83.9897           +
+...             ...          ...       ...       ...       ...         ...
+193 TTTTTTTTTATTTTG        9.015   -91.208    22.423   51.6657           +
+194 TTTTTTTATTTTGTC        9.015   -91.208    22.423   48.8561           +
+195 CTCTCATTTTATTCT        9.015   -91.208    22.423   43.9638           +
+196 TTCTCTTTGTTTTTG        9.015   -91.208    22.423   67.6716           +
+197 GCGTTTCTCTTTTTC        9.015   -91.208    22.423   47.4245           +
+         pvalue      qvalue
+      <numeric>   <numeric>
+1   8.41524e-05 0.022454279
+2   5.55301e-05 0.017776846
+3   1.82884e-05 0.008426329
+4   4.83589e-05 0.015893967
+5   2.16998e-07 0.000713201
+...         ...         ...
+193 2.93897e-05   0.0115365
+194 4.01922e-05   0.0140882
+195 6.81831e-05   0.0198901
+196 3.76161e-06   0.0035663
+197 4.70439e-05   0.0155655
+> 

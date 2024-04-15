@@ -1,0 +1,12 @@
+dplyr::left_join(result, id_description_mapping, by = c("PFAM" = "ac") )
+          ENSEMBL    PFAM                                       de
+1 ENSG00000121410 PF13895                    Immunoglobulin domain
+2 ENSG00000175899 PF17791                 Macroglobulin domain MG3
+3 ENSG00000175899 PF00207             Alpha-2-macroglobulin family
+4 ENSG00000175899 PF07678               A-macroglobulin TED domain
+5 ENSG00000175899 PF17789                 Macroglobulin domain MG4
+6 ENSG00000175899 PF01835                               MG2 domain
+7 ENSG00000175899 PF07703 Alpha-2-macroglobulin bait region domain
+8 ENSG00000175899 PF07677  A-macroglobulin receptor binding domain
+9 ENSG00000256069    <NA>                                     <NA>
+> 

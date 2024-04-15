@@ -1,0 +1,8 @@
+motif_info
+DataFrame with 1 row and 11 columns
+            motif   motif.i target.hits target.seq.hits target.seq.count  bkg.hits
+      <character> <integer>   <integer>       <integer>        <integer> <integer>
+1 YTTTYTTTTTYTTTY         1         410              50               50       152
+  bkg.seq.hits bkg.seq.count        Pval        Qval        Eval
+     <integer>     <integer>   <numeric>   <numeric>   <numeric>
+1           43            50 9.89063e-29 9.89063e-29 1.97813e-28

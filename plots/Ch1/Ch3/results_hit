@@ -1,0 +1,5 @@
+result$hit.tbl
+  name        acc bias desc  evalue flags hindex ndom nincluded nregions nreported
+1 GrpE PF01025.22  3.2 GrpE 1.3e-46     3  10091    1         1        1         1
+    pvalue score      taxid     pdb.id bitscore mlog.evalue
+1 -115.541 158.4 PF01025.22 PF01025.22    158.4    105.6566
