@@ -1,1 +1,10 @@
 
+Searching genes and proteins for domains and motifs
+The following steps will be covered in this chapter--
+finding DNA motifs with universalmotifs
+finding protein doamains using PFAM and bio3d
+finding interpro domains
+Performing multiple alignments of the gene or proteins
+Aligning genomic length sequence with DECIPHER 
+Machine learning for novel feature detection in protein
+3D structure protein alignment with bio3d
