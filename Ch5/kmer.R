@@ -1,0 +1,7 @@
+library(kmer)
+library(magrittr)
+get
+seqs <- ape::read.fastq("~/R_cook/Ch5/fq/SRR9040914ab.fq.gz")
+otu_vec <- otu(seqs, k = 6, threshold = 0.99 )
+table(otu_vec)
+data.frame(seqid = names(otu_vec), cluster = otu_vec, row.names = NULL) %>% dplyr::group_by(cluster) %>% dplyr::summarize(count = n() )
