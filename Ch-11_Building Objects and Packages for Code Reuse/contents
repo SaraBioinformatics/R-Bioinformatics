@@ -1,0 +1,8 @@
+                                                       ############ The following steps will be covered in this chapter ############
+1) Creating simple S3 objects to simplyfy code
+2) Taking advantage of generic object functions with S3 classes
+3) Creating structured and formal object with the S4 system
+4) simple way to package code for4 sharing and reuse
+5) using devtools to host code from github
+6) building a unit test suite to ensure that functions work as you intend
+7) using countinuous integration with travis to keep code tested and up to date
