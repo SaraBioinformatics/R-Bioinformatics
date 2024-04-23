@@ -1,0 +1,9 @@
+######################The following steps will be covered in this chapter ###################
+1) Correcting p-value to account for multiple hypothesis
+2) Generating a simulated dataset to represent a background
+3) Learning groupings within data and claasifying with kNN
+4) Predinting  classes withn randomForest
+5) Predicting classes with SVM
+6) Learning groups in data without prior information
+7) Identifying the most important variables in data with trandom forest
+8) Identifying the most important variables in data with PCA
