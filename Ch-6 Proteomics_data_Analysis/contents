@@ -1,0 +1,7 @@
+1) Representing raw MS ( MASS SPECTROMETER ) data visually
+2) Viewing proteomics data in a genome browser 
+3) Visualizing distribution of peptide hits counts to find threshold
+4) converting MS formats to move data between tools
+5) Matching spectra to peptides for verification with protViz
+6) Applying quality control filters to spectra
+7) identifying genomics loci that match peptides
