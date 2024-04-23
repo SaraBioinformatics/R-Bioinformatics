@@ -1,0 +1,7 @@
+Confusion Matrix and Statistics
+
+            Reference
+Prediction   setosa versicolor virginica
+  setosa          7          0         0
+  versicolor      0         10         0
+  virginica       0          0        13
