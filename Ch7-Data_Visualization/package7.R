@@ -1,0 +1,13 @@
+#### installed all packages
+install.packages("circlize")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("ggridges")
+install.packages("gplots")
+install.packages("plotly")
+install.packages("RColorBrewer")
+install.packages("readr")
+install.packages("magrittr")
+install.packages("tidyr")
+install.packages("viridis")
+install.packages("heatmap3")
