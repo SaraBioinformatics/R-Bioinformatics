@@ -1,0 +1,7 @@
+###################  The following steps will be covered in this chapter #####################
+1) Making base R object tidy
+2) Using nested dataframe
+3) Writing functions for use in mutate
+4) Working pragrammatically with bioconductor classes
+5) Developing reusable workflows and report
+6) Making use of the apply family of functions
